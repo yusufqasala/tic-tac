@@ -371,4 +371,20 @@ ol {
     font-family: "Caprasimo", cursive;
     padding: 1rem;
   }
+  #players li {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    border: 1px solid transparent;
+    font-size: 13px;
+  }
+  #players button {
+    width: 5rem;
+    font-size: 13px;
+    
+}
+.player input{
+  font-size: 15px;
+  width: 7rem;
+}
 }
